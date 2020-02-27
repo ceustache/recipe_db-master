@@ -33,6 +33,8 @@ gem 'carrierwave', '~> 2.0'
 
 gem 'devise'
 
+gem 'fog-aws'
+
 group :production do 
 
   gem 'pg'
